@@ -1,0 +1,16 @@
+#heading {
+    padding: 10px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-size: 24px
+}
+
+h1 {
+    margin: 0;
+    font-size: 50px;
+}
+
+p {
+    margin: 10px 0 10px 0;
+}

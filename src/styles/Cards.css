@@ -1,0 +1,20 @@
+#cards {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap:30px
+    
+}
+
+#cards > div > img {
+    max-width: 220px;
+    max-height: 300px;
+}
+
+#cards > div {
+    padding: 15px;
+    border: 2px black solid;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    min-width: 220px;
+}
