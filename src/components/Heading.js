@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/Heading.css';
 
-function Heading() {
+function Heading(props) {
   return (
     <div id="heading">
       <div>
@@ -12,8 +12,8 @@ function Heading() {
         </p>
       </div>
       <div id="score-board">
-        <div>Score: 0</div>
-        <div>Highest Score: 0</div>
+        <div>Score: {props.score}</div>
+        <div>Highest Score: {props.highScore}</div>
       </div>
     </div>
   );
