@@ -1,7 +1,7 @@
 #cards {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    gap:30px
+    gap:30px;
     
 }
 
@@ -12,9 +12,11 @@
 
 #cards > div {
     padding: 15px;
-    border: 2px black solid;
+    border: 1px rgb(19, 21, 52) solid;
     display: flex;
     align-items: flex-end;
     justify-content: center;
     min-width: 220px;
+    background-color: white;
+    border-radius: 5px;
 }
