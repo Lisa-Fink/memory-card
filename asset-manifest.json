@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.00711071.css",
+    "main.js": "/memory-card/static/js/main.ca40c192.js",
+    "static/media/Quina_Quen.webp": "/memory-card/static/media/Quina_Quen.7446a53bd2c6fc6a2f99.webp",
+    "static/media/Adelbert_Steiner.webp": "/memory-card/static/media/Adelbert_Steiner.72d80b6756a9ed671d41.webp",
+    "static/media/Zidane.webp": "/memory-card/static/media/Zidane.e7631660cfa505a1d513.webp",
+    "static/media/Freya.webp": "/memory-card/static/media/Freya.059b0c71bdfe46e94e11.webp",
+    "static/media/Vivi.webp": "/memory-card/static/media/Vivi.7d504c6b858e03d2acc4.webp",
+    "static/media/Eiko.webp": "/memory-card/static/media/Eiko.963a392e77f58012dd3f.webp",
+    "static/media/Cinna.webp": "/memory-card/static/media/Cinna.07219aa9b9ec00754f30.webp",
+    "static/media/Blank.webp": "/memory-card/static/media/Blank.8924a3b25491d2ffbe0c.webp",
+    "static/media/Garnet.webp": "/memory-card/static/media/Garnet.f13ab528cf5697aaee40.webp",
+    "static/media/Marcus.webp": "/memory-card/static/media/Marcus.931bff7937559b84ad2c.webp",
+    "index.html": "/memory-card/index.html",
+    "main.00711071.css.map": "/memory-card/static/css/main.00711071.css.map",
+    "main.ca40c192.js.map": "/memory-card/static/js/main.ca40c192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00711071.css",
+    "static/js/main.ca40c192.js"
+  ]
+}
